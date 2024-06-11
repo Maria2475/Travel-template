@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.page1 {
+    background-image: url('backimage.png') ;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no;
+}
+
+.navbar-nav .nav-link {
+    color: white !important;
+}
+
+.carousel-caption {
+    color: white;
+}
+
+.discount-section {
+    color: white;
+    text-align: center;
+    padding: 50px 0;
+}
+.discount-section h1 {
+    font-size: 70px;
+    font-weight: 700;
+}
+.btn-order {
+    color: white;
+    background-color: #ffc107;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+.btn-order:hover {
+    background-color: #ffab00;
+}
+.img1
+  {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 100%;
+  }
+  .img2
+  {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 100%;
+  }
+  .img3
+  {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 100%;
+  }
+#text
+{
+    text-align: center;
+    font-size: 36px;
+    color: black;
+}
+.col p
+{
+font-size: 15px;
+color: black;
+}
+.container1 {
+    background-color: orange;
+}
+.section h1{
+    display: flex;
+    font-size: 50px;
+    font-weight: 700;
+    justify-content: center;
+  }
+.section p
+  {
+    font-size: 20px;
+    text-align: center;
+  }
